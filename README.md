@@ -3,5 +3,5 @@
 <h2>Hi there 👋</h2>
 
 <p>
-I'm `Kavindu` and I'm a Software Engineer from Sri Lanka. i would like to refer me as an explorer more than being labled as a specific developer role. I would love to explore different kinds of technologies, some complex concepts and tech stacks. I'm currently playing on Web Dev.</p>
+I'm Kavindu, a Software Engineering undergraduate from Sri Lanka. i would like to refer me as an explorer more than being labled as a specific developer role. I would love to explore different kinds of technologies, some complex concepts and tech stacks. I'm currently playing on Web Dev. Btw I'm an Athlete as well.</p>
 

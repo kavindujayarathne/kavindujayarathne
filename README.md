@@ -6,7 +6,7 @@
 I'm Kavindu, a Software Engineering undergraduate from Sri Lanka. I would like to refer me as an explorer more than being labeled as a specific developer role. I would love to explore different kinds of technologies, some complex concepts and tech stacks. Btw I'm an Athlete as well.</p>
 
 - Currently Playing on <strong>Web Dev.</strong>
-- To Reach me: <strong>kavindujayarathne.99@gmail.com</strong>
+- To Reach me: <strong>kavindujayarathne.dev@gmail.com</strong>
 
 ---
 

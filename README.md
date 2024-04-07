@@ -3,7 +3,7 @@
 <h2>Hi there 👋</h2>
 
 <p>
-I'm Kavindu, a Software Engineering undergraduate from Sri Lanka. I would like to refer me as an explorer more than being labeled as a specific developer role. I would love to explore different kinds of technologies, some complex concepts and tech stacks. Btw I'm an Athlete as well.</p>
+I'm Kavindu, a Software Engineering Graduate from Sri Lanka. I would like to refer me as an explorer more than being labeled as a specific developer role. I would love to explore different kinds of technologies, some complex concepts and tech stacks. Btw I'm an Athlete as well.</p>
 
 - Currently Playing on <strong>Web Dev.</strong>
 - To Reach me: <strong>kavindujayarathne.dev@gmail.com</strong>
@@ -18,7 +18,7 @@ I'm Kavindu, a Software Engineering undergraduate from Sri Lanka. I would like t
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Technologies I have worked with:</h3>
 <div align="center"> 
   <a href="#" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/> </a> 
   <a href="#" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="50" height="50"/> </a> 

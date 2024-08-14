@@ -4,6 +4,10 @@
 <strong>I'm Kavindu</strong>. I would like to describe myself as an explorer rather than being labeled as a specific developer role.
 </p>
 
+<p>
+  So, Enjoy the profile! 🦄
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,astro,js,ts,vite,webpack,gulp,nodejs,python,java,androidstudio,firebase,mysql)](https://skillicons.dev)
 
 <h3 align="center">If you want to support me:</h3>

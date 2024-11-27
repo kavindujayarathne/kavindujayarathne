@@ -20,8 +20,8 @@
 </div>
 
 ## Articles
-[Experimental Commits on git](https://www.linkedin.com/pulse/experimental-commits-git-kavindu-jayarathne-pw3qe/?trackingId=TE84fOcgeGek2fzfbo%2BsVQ%3D%3D)
-[Different shell session types and shell programs in Unix / Linux](https://www.linkedin.com/pulse/different-shell-session-types-programs-unix-linux-kavindu-jayarathne-mvhpe/?trackingId=9W3fs0KUiqgo6rt%2BgqhouQ%3D%3D)
-[What is a monorepo?](https://www.linkedin.com/pulse/what-monorepo-kavindu-jayarathne-8pghe/?trackingId=%2Fa%2BEnd809Nqu5Bhsbs7aWA%3D%3D)
-[Efficient way of looping through an array?](https://www.linkedin.com/pulse/efficient-way-looping-through-array-kavindu-jayarathne-0ocbe/?trackingId=t2djr7QooFBWVwEmNY6jUw%3D%3D)
-[7 - 1 Pattern/Architecture on Sass](https://www.linkedin.com/pulse/7-1-patternarchitecture-sass-kavindu-jayarathne-j1sqe/?trackingId=mqzXxWNVVtMmm2NnD1%2FuzQ%3D%3D)
+- [Experimental Commits on git](https://www.linkedin.com/pulse/experimental-commits-git-kavindu-jayarathne-pw3qe/?trackingId=TE84fOcgeGek2fzfbo%2BsVQ%3D%3D)
+- [Different shell session types and shell programs in Unix / Linux](https://www.linkedin.com/pulse/different-shell-session-types-programs-unix-linux-kavindu-jayarathne-mvhpe/?trackingId=9W3fs0KUiqgo6rt%2BgqhouQ%3D%3D)
+- [What is a monorepo?](https://www.linkedin.com/pulse/what-monorepo-kavindu-jayarathne-8pghe/?trackingId=%2Fa%2BEnd809Nqu5Bhsbs7aWA%3D%3D)
+- [Efficient way of looping through an array?](https://www.linkedin.com/pulse/efficient-way-looping-through-array-kavindu-jayarathne-0ocbe/?trackingId=t2djr7QooFBWVwEmNY6jUw%3D%3D)
+- [7 - 1 Pattern/Architecture on Sass](https://www.linkedin.com/pulse/7-1-patternarchitecture-sass-kavindu-jayarathne-j1sqe/?trackingId=mqzXxWNVVtMmm2NnD1%2FuzQ%3D%3D)

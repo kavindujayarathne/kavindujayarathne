@@ -8,7 +8,7 @@
   So, Enjoy the profile! 🦄
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,astro,js,ts,vite,webpack,gulp,nodejs,python,java,androidstudio,firebase,mysql)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,astro,js,ts,vite,webpack,gulp,nodejs,python,java,androidstudio,firebase,mysql)](https://skillicons.dev) -->
 
 <h3 align="center">If you want to support me:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kavindujayarathne"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a></p>

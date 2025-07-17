@@ -1,5 +1,4 @@
-### Hey
-
+<!-- ### Hey -->
 I’m just a guy passionate about understanding complex systems.
 
 **Fun Facts**:

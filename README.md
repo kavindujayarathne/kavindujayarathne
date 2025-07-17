@@ -1,8 +1,8 @@
-### Kavindu Jayarathne
+### Hey
 
 I’m just a guy passionate about understanding complex systems.
 
-**Fun Facts:**
+Fun Facts:
 
 - I am interested in physics as a way to understand the mechanism of universe
 - I study networking as a way to understand the mechanism of the world of internet

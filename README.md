@@ -11,4 +11,4 @@ I’m just a guy passionate about understanding complex systems.
 - I am a terminal person. Here are my [dotfiles](https://github.com/kavindujayarathne/dotfiles)
 - I write my experiences and things on my [website](https://kavindujayarathne.com/blogs)
 - I am also an athlete wannabe
-- If you appreciate what I'm doing, you can [buy me a coffee](https://buymeacoffee.com/kavindujayarathne)
+- If you appreciate what I'm doing, you can [buy me a coffee](#)
